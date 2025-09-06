@@ -1,3 +1,4 @@
+
  Hi, This is my task3 at Oasis Infobyte,which was to built a Temperature Converter webpage, the HTML part builds the structure of the page. The <!DOCTYPE html> declares the
  document type, <html lang="en"> sets the language, and the <head> contains the title, character encoding, and CSS link. Inside the <body>, a <div class="container"> holds 
  all components: a heading <h2> for the title, an <input type="number"> for entering temperatures, a <select> dropdown with <option> tags to choose between Fahrenheit to 
